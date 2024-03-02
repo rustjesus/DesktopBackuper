@@ -1,0 +1,1 @@
+Open with visual studio 2022. Backups desktop files and/or shortcuts. Restores missing files and/or shortcuts. Useful for people who want their desktop to stay the same and accidentally move or delete shortcuts or files from their desktop.
