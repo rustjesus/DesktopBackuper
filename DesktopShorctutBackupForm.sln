@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopShorctutBackupForm", "DesktopShorctutBackupForm\DesktopShorctutBackupForm.csproj", "{02614626-8D10-4470-8382-4B3CF61ACB89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02614626-8D10-4470-8382-4B3CF61ACB89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02614626-8D10-4470-8382-4B3CF61ACB89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02614626-8D10-4470-8382-4B3CF61ACB89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02614626-8D10-4470-8382-4B3CF61ACB89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D47B1EC-9386-4A0E-BFCF-328A09E0B7E6}
+	EndGlobalSection
+EndGlobal
